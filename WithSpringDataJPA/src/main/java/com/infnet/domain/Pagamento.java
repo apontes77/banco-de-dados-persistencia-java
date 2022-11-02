@@ -1,7 +1,7 @@
 package com.infnet.domain;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.infnet.persistenciajava.domain.enums.EstadoPagamento;
+import com.infnet.domain.enums.EstadoPagamento;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
